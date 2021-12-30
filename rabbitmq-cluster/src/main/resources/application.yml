@@ -1,0 +1,6 @@
+spring:
+  rabbitmq:
+    host: hadoop101
+    port: 5670
+    username: admin
+    password: 2648
